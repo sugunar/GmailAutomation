@@ -1,5 +1,5 @@
 package com.Automation.PageObjects;
 
-public class SignUpPage {
+public class GmailSignUpPage {
 
 }
